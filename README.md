@@ -1,6 +1,26 @@
 # TFM-Satisfaccion-Restaurantes-Peru
 Análisis de satisfacción de clientes de restaurantes peruanos mediante NLP, Machine Learning, análisis de aspectos y sistema de recomendación
 
+---
+
+## Acceso rápido al proyecto
+
+Los principales componentes del Trabajo Fin de Máster pueden consultarse en los siguientes apartados:
+
+- 📓 **[Notebook principal](cuadernos/)**  
+  Contiene el código completo utilizado para el procesamiento de datos, análisis exploratorio, NLP, modelización, análisis de aspectos, recomendador y dashboard.
+
+- 🌐 **[Versión HTML](html/)**  
+  Contiene la versión ejecutada y estática del notebook, incluyendo resultados, gráficos, análisis y ejemplos de las aplicaciones desarrolladas.
+
+- 📄 **[Informe final](documentación/)**  
+  Contiene el documento final del Trabajo Fin de Máster con la metodología, resultados, interpretación de negocio y conclusiones.
+
+- 📊 **[Datos](datos/)**  
+  Contiene la descripción del dataset, su procedencia y la información necesaria para obtener los datos originales.
+
+---
+
 ## Descripción del proyecto
 
 El presente proyecto corresponde al Trabajo Fin de Máster y tiene como objetivo analizar la satisfacción y experiencia de los clientes de restaurantes peruanos a partir de reseñas publicadas en plataformas digitales.
