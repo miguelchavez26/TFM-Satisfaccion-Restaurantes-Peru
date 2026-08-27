@@ -27,3 +27,5 @@ Entre los contenidos principales se encuentran:
 El código completo utilizado durante el proyecto se encuentra disponible en la carpeta `cuadernos/`.
 
 La versión ejecutada del proyecto puede consultarse adicionalmente en la carpeta `html/`.
+
+[⬅ Volver al inicio del repositorio](https://github.com/miguelchavez26/TFM-Satisfaccion-Restaurantes-Peru)
