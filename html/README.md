@@ -29,3 +29,5 @@ El sistema de recomendación y el dashboard fueron desarrollados mediante compon
 La exportación HTML constituye una representación estática del proyecto. Por este motivo, se incorporaron ejemplos previamente ejecutados del recomendador y visualizaciones del dashboard para facilitar la revisión de sus principales funcionalidades.
 
 Para consultar o ejecutar los componentes interactivos debe utilizarse el notebook principal disponible en la carpeta `cuadernos/`.
+
+[⬅ Volver al inicio del repositorio](https://github.com/miguelchavez26/TFM-Satisfaccion-Restaurantes-Peru)
