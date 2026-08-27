@@ -33,3 +33,5 @@ El notebook representa el código principal del proyecto y contiene tanto las et
 La reproducción completa del notebook requiere disponer previamente de los archivos del dataset utilizados durante el proyecto.
 
 La procedencia de estos datos y las instrucciones generales para obtenerlos se encuentran documentadas en la carpeta `datos/`.
+
+[⬅ Volver al inicio del repositorio](https://github.com/miguelchavez26/TFM-Satisfaccion-Restaurantes-Peru)
