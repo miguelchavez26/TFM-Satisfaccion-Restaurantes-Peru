@@ -7,13 +7,17 @@ Análisis de satisfacción de clientes de restaurantes peruanos mediante NLP, Ma
 
 Los principales componentes del Trabajo Fin de Máster pueden consultarse en los siguientes apartados:
 
-- 📓 **[Notebook principal](cuadernos/)**  
+## 🔗 Acceso rápido al proyecto
+
+Los principales componentes del Trabajo Fin de Máster pueden consultarse en los siguientes apartados:
+
+- 📓 **[Notebook principal](notebooks/)**  
   Contiene el código completo utilizado para el procesamiento de datos, análisis exploratorio, NLP, modelización, análisis de aspectos, recomendador y dashboard.
 
 - 🌐 **[Versión HTML](html/)**  
   Contiene la versión ejecutada y estática del notebook, incluyendo resultados, gráficos, análisis y ejemplos de las aplicaciones desarrolladas.
 
-- 📄 **[Informe final](documentación/)**  
+- 📄 **[Informe final](documentacion/)**  
   Contiene el documento final del Trabajo Fin de Máster con la metodología, resultados, interpretación de negocio y conclusiones.
 
 - 📊 **[Datos](datos/)**  
