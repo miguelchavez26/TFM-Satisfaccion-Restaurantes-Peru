@@ -232,7 +232,7 @@ El entorno desarrollado constituye un **prototipo funcional** y podría evolucio
 
 ---
 
-[⬅ Volver al inicio del repositorio](../README.md)
+[⬅ Volver al inicio del repositorio](../LÉAME.md)
 
 ---
 
