@@ -1,8 +1,6 @@
 # TFM-Satisfaccion-Restaurantes-Peru
 Análisis de satisfacción de clientes de restaurantes peruanos mediante NLP, Machine Learning, análisis de aspectos y sistema de recomendación
 
-# TFM - Análisis de la satisfacción en restaurantes peruanos
-
 ## Descripción del proyecto
 
 El presente proyecto corresponde al Trabajo Fin de Máster y tiene como objetivo analizar la satisfacción y experiencia de los clientes de restaurantes peruanos a partir de reseñas publicadas en plataformas digitales.
