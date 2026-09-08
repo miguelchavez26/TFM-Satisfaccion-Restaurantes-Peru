@@ -159,6 +159,29 @@ Cuando el usuario selecciona un aspecto específico, la puntuación de recomenda
 
 ---
 
+## Inferencia de nuevas reseñas
+
+El proyecto incorpora una interfaz funcional que permite introducir una nueva reseña y estimar automáticamente el nivel de satisfacción asociado a ella.
+
+El proceso de inferencia aplica las mismas transformaciones utilizadas durante el entrenamiento del modelo:
+
+1. Limpieza y normalización del texto.
+2. Análisis de sentimiento mediante **PySentimiento**.
+3. Transformación de la reseña mediante **TF-IDF**.
+4. Incorporación de las probabilidades de sentimiento como variables adicionales.
+5. Clasificación mediante el modelo final de **Regresión Logística**.
+
+Como resultado, el sistema clasifica la nueva reseña en una de las tres categorías de satisfacción:
+
+- **Positiva (POS)**
+- **Neutral (NEU)**
+- **Negativa (NEG)**
+
+Además, la interfaz muestra las probabilidades estimadas para cada clase, permitiendo interpretar el nivel de confianza de la predicción.
+
+Este componente permite demostrar la utilización del modelo sobre nuevas opiniones no utilizadas durante su entrenamiento y aproxima el proyecto a un escenario de aplicación real.
+
+---
 ## Dashboard de satisfacción gastronómica
 
 Se desarrolló adicionalmente un dashboard interactivo para facilitar la interpretación de los resultados desde una perspectiva de negocio.
