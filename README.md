@@ -77,10 +77,11 @@ El proyecto se desarrolló mediante las siguientes etapas:
 9. Incorporación de nuevas variables y probabilidades NLP.
 10. Optimización del tratamiento de las clases.
 11. Análisis de aspectos de la experiencia gastronómica.
-12. Evaluación del modelo final.    
-13. Desarrollo del sistema de recomendación.
-14. Desarrollo del dashboard de satisfacción.
-15. Preparación de los componentes para su consulta y revisión.
+12. Evaluación del modelo final.
+13. Desarrollo de la inferencia para nuevas reseñas.
+14. Desarrollo del sistema de recomendación.
+15. Desarrollo del dashboard de satisfacción.
+16. Preparación de los componentes para su consulta y revisión.
     
 ---
 
