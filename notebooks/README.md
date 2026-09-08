@@ -4,7 +4,7 @@ Esta carpeta contiene el notebook principal utilizado para el desarrollo del Tra
 
 ## Archivo principal
 
-**TFM_RestaurantesV1.ipynb**
+**TFM_Satisfaccion_Restaurantes_Peru_Miguel_Chavez.ipynb**
 
 El notebook contiene el desarrollo completo del proyecto, incluyendo las siguientes etapas:
 
