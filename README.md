@@ -3,10 +3,6 @@ Análisis de satisfacción de clientes de restaurantes peruanos mediante NLP, Ma
 
 ---
 
-## Acceso rápido al proyecto
-
-Los principales componentes del Trabajo Fin de Máster pueden consultarse en los siguientes apartados:
-
 ## 🔗 Acceso rápido al proyecto
 
 Los principales componentes del Trabajo Fin de Máster pueden consultarse en los siguientes apartados:
