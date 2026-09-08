@@ -217,14 +217,13 @@ TFM-Satisfaccion-Restaurantes-Peru/
 │   └── Notebook principal de Google Colab
 │
 └── README.md
-
----
+```
 
 ### Archivos principales
 
-- **`cuadernos/`**: contiene el notebook completo utilizado para desarrollar el proyecto.
+- **`notebooks/`**: contiene el notebook completo utilizado para desarrollar el proyecto.
 - **`html/`**: contiene la versión ejecutada en HTML, incluyendo resultados, análisis y visualizaciones.
-- **`documentación/`**: contiene el informe final del Trabajo Fin de Máster.
+- **`documentacion/`**: contiene el informe final del Trabajo Fin de Máster.
 - **`datos/`**: contiene información sobre la procedencia de los datos utilizados.
 
 ---
