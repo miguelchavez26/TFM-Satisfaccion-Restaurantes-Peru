@@ -31,8 +31,7 @@ Para ello, se aplican técnicas de **Procesamiento de Lenguaje Natural (NLP)** y
 - Neutral (NEU)
 - Negativa (NEG)
 
-El proyecto complementa el análisis predictivo con un **análisis de sentimiento**, un **análisis de aspectos de la experiencia gastronómica**, un **sistema de recomendación de restaurantes** y un **dashboard interactivo orientado a negocio**.
-
+El proyecto complementa el análisis predictivo con un **análisis de sentimiento**, un **análisis de aspectos de la experiencia gastronómica**, una **interfaz de inferencia para nuevas reseñas**, un **sistema de recomendación de restaurantes** y un **dashboard interactivo orientado a negocio**.
 ---
 
 ## Problema de negocio
@@ -202,22 +201,21 @@ El dashboard permite transformar los resultados analíticos en indicadores de co
 ## Estructura del repositorio
 
 ```text
-TFM-Satisfaccion-Restaurantes-Perú/
+TFM-Satisfaccion-Restaurantes-Peru/
 │
 ├── datos/
 │   └── Información sobre el dataset
 │
-├── documentación/
+├── documentacion/
 │   └── Informe final del TFM
 │
 ├── html/
 │   └── Versión HTML ejecutada del proyecto
 │
-├── cuadernos/
+├── notebooks/
 │   └── Notebook principal de Google Colab
 │
 └── README.md
-```
 
 ### Archivos principales
 
