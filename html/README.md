@@ -4,7 +4,7 @@ Esta carpeta contiene la versión HTML generada a partir del notebook final del 
 
 ## Archivo principal
 
-**TFM_RestaurantesV1.html**
+**TFM_Satisfaccion_Restaurantes_Peru_Miguel_Chavez.html**
 
 El archivo permite revisar de forma estática el desarrollo completo del proyecto, incluyendo:
 
