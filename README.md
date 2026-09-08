@@ -223,10 +223,11 @@ El proyecto fue desarrollado principalmente con:
 
 ## Aplicabilidad empresarial
 
-El proyecto busca aproximar los resultados del análisis a un escenario de utilización empresarial mediante dos componentes funcionales:
+El proyecto busca aproximar los resultados del análisis a un escenario de utilización empresarial mediante tres componentes funcionales:
 
-1. **Sistema de recomendación**, orientado al usuario que desea identificar restaurantes según determinados criterios.
-2. **Dashboard de satisfacción**, orientado al análisis agregado de la experiencia de los clientes.
+1. **Inferencia de nuevas reseñas**, que permite introducir una reseña y obtener una estimación automática de la satisfacción del cliente.
+2. **Sistema de recomendación**, orientado al usuario que desea identificar restaurantes según determinados criterios.
+3. **Dashboard de satisfacción**, orientado al análisis agregado de la experiencia de los clientes.
 
 El entorno desarrollado constituye un **prototipo funcional** y podría evolucionar posteriormente hacia una aplicación independiente mediante el despliegue del procesamiento y del modelo como servicios accesibles desde una aplicación web o API.
 
