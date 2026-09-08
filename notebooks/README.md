@@ -17,9 +17,9 @@ El notebook contiene el desarrollo completo del proyecto, incluyendo las siguien
 - Construcción y evaluación de modelos de Machine Learning.
 - Análisis de aspectos de la experiencia gastronómica.
 - Optimización y selección del modelo final.
+- Desarrollo de la inferencia para nuevas reseñas.
 - Sistema de recomendación de restaurantes.
 - Dashboard de satisfacción gastronómica.
-- Auditorías y validaciones finales.
 - Preparación de resultados para la exportación HTML.
 
 ## Entorno de desarrollo
