@@ -30,8 +30,9 @@ Para ello, se aplican técnicas de **Procesamiento de Lenguaje Natural (NLP)** y
 - Positiva (POS)
 - Neutral (NEU)
 - Negativa (NEG)
-
+  
 El proyecto complementa el análisis predictivo con un **análisis de sentimiento**, un **análisis de aspectos de la experiencia gastronómica**, una **interfaz de inferencia para nuevas reseñas**, un **sistema de recomendación de restaurantes** y un **dashboard interactivo orientado a negocio**.
+
 ---
 
 ## Problema de negocio
