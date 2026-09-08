@@ -218,6 +218,8 @@ TFM-Satisfaccion-Restaurantes-Peru/
 │
 └── README.md
 
+---
+
 ### Archivos principales
 
 - **`cuadernos/`**: contiene el notebook completo utilizado para desarrollar el proyecto.
